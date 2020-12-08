@@ -32,9 +32,9 @@ Your first step in predicting yearly sales is to first format and blend together
  
  <h6> the sum for each of the above columns should be: </h6>
  
- -<h6> Census Population: </h6> 213,862 
-- <h6> Total Pawdacity Sales: </h6>3,773,304 
- - <h6> Households with Under 18:</h6>34,064 
- - <h6> Land Area: 33,071 
-  -<h6> Population Density: </h6> 63 
+ <h6> Census Population: </h6> 213,862 
+<h6> Total Pawdacity Sales: </h6>3,773,304 
+  <h6> Households with Under 18:</h6>34,064 
+  <h6> Land Area:</h6> 33,071 
+  <h6> Population Density: </h6> 63 
   <h6> Total Families: </h6> 62,653 with 11 rows of data
